@@ -293,21 +293,6 @@ lottie-player {
 	
 }
 
-@keyframes pulse {
-	0% {
-		transform: scale(.99);
-		box-shadow: 0 0 0 0 rgba(9, 255, 0, 0.315);
-	}
-	70% {
-		transform: scale(1);
-		box-shadow: 0 0 0 5px rgba(74, 116, 255, 0.712);
-	}
-	100% {
-		transform: scale(.99);
-		box-shadow: 0 0 0 0 rgba(47, 75, 134, 0.548);
-	}
-	
-}
 
 .informacion .qr img {
 	text-align: center;
@@ -361,6 +346,13 @@ lottie-player {
 	font-weight: bold;
 	color: rgb(11, 0, 131);
 } 
+
+@media screen  and  (min-width: 580px){
+	.portafolio .premium { 
+		margin: 15px 25%;;
+		font-size: 13px;
+	  }
+  }
 
 .portafolio a {
 	text-decoration: none;
