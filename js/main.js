@@ -276,7 +276,7 @@ document.querySelector('.side')
             showCloseButton: true,
             icon: 'info',
             text: 'función disponible próximamente',
-            footer: 'Tarjeta Demo'
+            footer: 'Tarjeta Digital'
             });
           
            
@@ -304,8 +304,8 @@ document.querySelector('.side')
         };
     
           const shareData2 = {
-            title: 'Ecuador Inmediato',
-            text: 'Enviado desde Cliconline App. Web Tarjeta Digital Ecuador Inmediato',
+            title: 'Tarjeta Diamante',
+            text: 'Ecuador Inmediato Digital',
             url: 'https://ecuadorinmediatodigital.blogspot.com',
             }
             
