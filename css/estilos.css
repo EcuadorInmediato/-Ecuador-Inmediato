@@ -293,7 +293,6 @@ lottie-player {
 	
 }
 
-
 .informacion .qr img {
 	text-align: center;
 	width: 30%;
@@ -380,7 +379,7 @@ lottie-player {
 }
 
 
-/* ----- ----- galeria ----- ----- */
+/* ----- ----- youtubevideo----- ----- */
 
 .galeria {
 	display: none;
@@ -416,7 +415,7 @@ lottie-player {
 }
 
 .redes-sociales .facebook { background: #3b5998; }
-.redes-sociales .whatsapp { background: #25d366; }
+.redes-sociales .whatsapp { background: #065e26; }
 .redes-sociales .phone { background: #0f7dd8; }
 .redes-sociales .instagram { background: #f0466a; }
 
@@ -576,9 +575,8 @@ footer .rango {
 	word-wrap: normal;
 	direction: ltr;
 	-webkit-font-smoothing: antialiased;
-	background: rgba(0, 0, 0, 0.562);
-	padding: 5px 4px;
-	border-radius: 10px;
+	padding: 2px 4px;
+	border-radius: 8px;
 
   }
 
